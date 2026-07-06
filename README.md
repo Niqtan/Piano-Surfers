@@ -7,3 +7,5 @@ Inspired by the many falling-light youtube piano covers and games such as Piano 
 ![](https://github.com/Niqtan/Piano-Surfers/blob/main/images/assembly%201.png?raw=true)
 ![](https://github.com/Niqtan/Piano-Surfers/blob/main/images/assembly%202.png?raw=true)
 ## Schematic
+
+![alt text](Schematic/schematic.png)
